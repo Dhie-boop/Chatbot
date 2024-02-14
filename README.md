@@ -26,6 +26,8 @@ How to Use:
 3. Install Dependencies:
 Navigate to the project directory and install the necessary Python packages using pip:
 
+Make sure you create your own virtual environment 
+
   ```cd chatbot```
   
   ```pip install -r requirements.txt```
