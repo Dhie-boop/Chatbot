@@ -3,7 +3,7 @@ Chat-with-Websites Chatbot with LangChain, Beautiful Soup, and OpenAI
 
 Welcome to the Chat-with-Websites Chatbot repository! This application, powered by LangChain Python framework, Beautiful Soup for web scraping, OpenAI API for natural language processing, and Streamlit for GUI, allows you to engage in conversations with any website of your choice.
 
-Features:
+# Features:
 Website Chat Integration:
 With the help of LangChain and Beautiful Soup, the application can scrape content from any website and create a conversational interface.
 
@@ -50,7 +50,7 @@ That's it! You're now ready to explore and converse with websites using the Chat
 
 This project is only meant for Educational purpose!!!
 
-If you find this project useful please let's help each other to grow and share knowledge by forking it to your github and star it and follow me and I follow you back.
+# If you find this project useful please let's help each other to grow and share knowledge by forking it to your github and star it and follow me and I follow you back.
 
 
 
