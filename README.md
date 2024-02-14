@@ -50,6 +50,8 @@ That's it! You're now ready to explore and converse with websites using the Chat
 
 This project is only meant for Educational purpose!!!
 
+If you find this project useful please let's help each other to grow and share knowledge by forking it to your github and star it and follow me and I follow you back.
+
 
 
 
